@@ -42,4 +42,26 @@ ul {
 }
 
 
+.header {
+    display: flex;
+    flex-direction: column;
+    height: 450px;
+    justify-content: center;
+    margin-left: 10%;
+}
+
+.header h2 {
+    color: rgb(249 255 18);
+    font-weight: lighter;
+    font-size: 50px;
+}
+
+.header p {
+    color: #ccc;
+    font-size: 36px;
+    margin-top: 28px;
+}
+
+
+
 
