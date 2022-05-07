@@ -114,3 +114,54 @@ hr.line2 {
     padding-top: 20px;
 }
 
+.box2 img {
+    width: 25px;
+}
+
+.box3 img {
+    width: 25px;
+}
+
+.truck img {
+    width: 340px;
+}
+
+
+.icons {
+    display: flex;
+    gap: 5px;
+}
+
+section.services {
+    display: flex;
+    justify-content: center;
+    background: #cccccc36;
+    height: 600px;
+    gap: 120px;
+}
+
+
+.box1 {
+    padding: 20px 20px 20px 42px;
+}
+.box2 {
+    padding: 20px 20px 20px 50px;
+}
+.box3 {
+    padding: 20px 20px 20px 50px;
+}
+
+.A-plusmovers {
+    background: #fff;
+    height: 415px;
+    border-bottom-left-radius: 43px;
+    border-bottom-right-radius: 43px;
+    box-shadow: 1px 3px 4px 0px #cccc;
+}
+
+h3 {
+    padding-left: 20px;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
