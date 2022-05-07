@@ -98,7 +98,7 @@ hr.line {
     flex-direction: column;
     height: 400px;
     justify-content: center;
-    background: #cccccc36;
+    background: rgba(204, 204, 204, 0.21);
     padding-left: 10%;
 }
 
