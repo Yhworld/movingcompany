@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Adamina&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Adamina&family=Poppins:wght@100&display=swap');
 
 * {
     margin: 0;
@@ -10,7 +11,7 @@
 .navbar {
     display: flex;
     align-items: center;
-    height: 148px;
+    height: 245px;
     padding-right: 20%;
     justify-content: end;
 }
@@ -53,18 +54,32 @@ ul {
 .header h2 {
     color: rgb(249 255 18);
     font-weight: lighter;
-    font-size: 50px;
+    font-size: 60px;
 }
 
 .header p {
     color: #ccc;
     font-size: 36px;
     margin-top: 28px;
+    font-family: 'Poppins';
+    font-weight: 900;
 }
 
 .container {
     font-size: 26px;
 }
+
+.container h2 {
+    font-weight: lighter;
+    font-size: 50px;
+}
+
+.container p {
+    font-family: 'Poppins';
+    font-weight: 700;
+}
+
+
 
 section.hustle {
     display: flex;
@@ -175,16 +190,23 @@ section.footer {
 }
 
 section.footerlinks {
-    background: #000;
-    color: #fff;
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
-    height: 150px;
+    height: 206px;
+    align-items: center;
 }
 
 .footer h2 {
-    font-size: 28px;
-    font-weight: lighter;
+    font-size: 48px;
+    font-family: 'Poppins';
+    font-weight: 700;
+}
+
+span {
+    font-family: 'Poppins';
+    color: #FFAC12;
 }
 
 .socialmedia {
