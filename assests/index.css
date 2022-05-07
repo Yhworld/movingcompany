@@ -93,5 +93,24 @@ hr.line {
     margin-left: 100px;
 }
 
+.topmovers {
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    justify-content: center;
+    background: #cccccc36;
+    padding-left: 10%;
+}
 
+hr.line2 {
+    width: 9%;
+    height: 5px;
+    background-image: linear-gradient(to right, orange,yellowgreen, green);
+}
+
+.topmovers h2 {
+    font-weight: lighter;
+    font-size: 40px;
+    padding-top: 20px;
+}
 
