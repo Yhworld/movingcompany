@@ -398,3 +398,7 @@ p.p1 {
 .btnsubmit {
     padding-left: 20%;
 }
+
+.fa-arrow-right:before {
+    padding-left: 10px;
+}
