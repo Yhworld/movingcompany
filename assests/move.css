@@ -70,22 +70,24 @@ section.kitchen {
     height: 1000px;
     align-items: center;
     justify-content: space-around;
+    background: rgba(204, 204, 204, 0.21);
 }
 
 .slideshow img {
     width: 130px;
 }
 
+
 .chat {
     display: flex;
     flex-direction: column;
     gap: 30px;
-    padding-right: 30px;
-    padding-bottom: 44px;
-    padding-left: 30px;
-    padding-top: 40px;
+    padding: 40px 30px 44px;
     border-radius: 20px;
-    box-shadow: 2px 4px 8px 2px #cccc;
+    box-shadow: rgb(204 204 204 / 80%) 2px 4px 8px 2px;
+    margin-bottom: 120px;
+    margin-right: 20%;
+    background: #fff;
 }
 
 .profile {
