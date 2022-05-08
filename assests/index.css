@@ -17,7 +17,7 @@
 }
 
 .overlay {
-    background-image: url(/assests/images/moving\ 1.png);
+    background-image: url("../assests/images/moving\ 1.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
