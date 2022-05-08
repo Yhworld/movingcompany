@@ -346,3 +346,51 @@ section.services {
     font-weight: lighter;
 }
 
+
+section.footer {
+    display: flex;
+    height: 200px;
+    align-items: center;
+    background: #000;
+    color: #fff;
+    padding-left: 10%;
+}
+
+section.footerlinks {
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-around;
+    height: 206px;
+    align-items: center;
+}
+
+.footer h2 {
+    font-size: 48px;
+    font-family: 'Poppins';
+    font-weight: 700;
+}
+
+span {
+    font-family: 'Poppins';
+    color: #FFAC12;
+}
+
+.socialmedia {
+    display: flex;
+    gap: 50px;
+}
+
+.links {
+    display: flex;
+    gap: 150px;
+    line-height: 1.6;
+}
+
+.links p {
+    color: #ccc;
+}
+
+p.p1 {
+    color: #fff;
+}
