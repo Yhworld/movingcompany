@@ -228,5 +228,9 @@ p.p1 {
     color: #fff;
 }
 
+.fa-arrow-right:before {
+    padding-left: 10px;
+}
+
 
 
