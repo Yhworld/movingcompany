@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Adamina&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Actor&family=Adamina&family=Poppins&display=swap');
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins';
+    font-family: 'Actor';
 }
 
 .navbar {
@@ -36,4 +36,27 @@ button.navlink {
     background: #FFAC12;
     color: #fff;
     border: transparent;
+}
+
+section.intro {
+    display: flex;
+    justify-content: space-around;
+    height: 140px;
+    align-items: center;
+    background: #000;
+    color: #fff;
+    font-family: 'Actor'
+}
+
+.intro h2 {
+    font-size: 36px;
+    font-weight: lighter;
+}
+
+.mordernhouse {
+    padding-right: 200px;
+}
+
+.intro p {
+    color: #ccc;
 }
