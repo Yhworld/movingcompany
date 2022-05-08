@@ -368,7 +368,7 @@ section.footerlinks {
 .footer h2 {
     font-size: 48px;
     font-family: 'Poppins';
-    font-weight: 700;
+    font-weight: lighter
 }
 
 span {
@@ -393,4 +393,8 @@ span {
 
 p.p1 {
     color: #fff;
+}
+
+.btnsubmit {
+    padding-left: 20%;
 }
