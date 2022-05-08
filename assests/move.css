@@ -243,3 +243,34 @@ section.explanation {
     padding-top: 70px;
 }
 
+.featheader {
+    position: absolute;
+    padding-top: 100px;
+    margin-left: 80px;
+}
+
+section.features {
+    display: flex;
+    align-items: center;
+    height: 400px;
+    background: rgba(204, 204, 204, 0.21);
+}
+
+.specifications {
+    background: #fff;
+    padding: 105px 151px 20px 30px;
+    border-radius: 20px;
+    margin-left: 60px;
+    box-shadow: rgb(204 204 204 / 80%) 4px 4px 8px 4px;
+}
+
+.condition {
+    display: flex;
+    line-height: 1.8;
+    gap: 120px;
+}
+
+.condition img {
+    padding-right: 10px;
+}
+
