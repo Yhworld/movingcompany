@@ -30,6 +30,12 @@ ul {
     gap: 70px;
 }
 
+li a {
+    text-decoration: none;
+    color: #fff;
+    
+}
+
 .button-1 {
         background: rgb(249 255 18);
         color: #000;
