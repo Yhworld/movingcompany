@@ -60,3 +60,104 @@ section.intro {
 .intro p {
     color: #ccc;
 }
+
+.island img {
+    width: 907px;
+}
+
+section.kitchen {
+    display: flex;
+    height: 1000px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.slideshow img {
+    width: 130px;
+}
+
+.chat {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding-right: 30px;
+    padding-bottom: 44px;
+    padding-left: 30px;
+    padding-top: 40px;
+    border-radius: 20px;
+    box-shadow: 2px 4px 8px 2px #cccc;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+    padding: 20px 98px 10px 20px;
+    background: #cccccc36;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+.profile img {
+    width: 70px;
+}
+
+.kaylee {
+    padding-left: 10px;
+}
+
+.name {
+    display: flex;
+    padding: 20px 98px 10px 20px;
+    background: #fff;
+    border-radius: 20px;
+    border: solid 1px #2196f354;
+}
+
+.name h2 {
+    font-weight: lighter;
+}
+
+.phone {
+    display: flex;
+    padding: 20px 98px 10px 20px;
+    background: #fff;
+    border-radius: 20px;
+    border: solid 1px #2196f354;
+}
+
+.phone h2 {
+    font-weight: lighter;
+}
+
+.Email {
+    display: flex;
+    padding: 20px 98px 10px 20px;
+    background: #fff;
+    border-radius: 20px;
+    border: solid 1px #2196f354;
+}
+
+.Email h2 {
+    font-weight: lighter;
+}
+
+.Intrested {
+    display: flex;
+    padding: 20px 98px 80px 20px;
+    background: #fff;
+    border-radius: 20px;
+    border: solid 1px #2196f354;
+}
+
+
+.Intrested h2 {
+    font-weight: lighter;
+}
+
+
+.learn {
+    padding: 21px 155px 20px 73px;
+    border-top-right-radius: 12px;
+    color: rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
+}
